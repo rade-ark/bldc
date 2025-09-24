@@ -1,0 +1,14 @@
+python>=3.9
+numpy
+scipy
+librosa
+soundfile
+torch
+torchaudio
+scikit-learn
+matplotlib
+notebook
+jupyterlab
+tqdm
+pandas
+pytest
